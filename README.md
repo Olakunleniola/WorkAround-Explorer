@@ -32,7 +32,7 @@ This web app should allow users to choose specific roles and companies in the te
 + In your local terminal run the command below to download the project files
 
 ```bash
-    git clone https://github.com/Olakunleniola/WorkAround-Explorer-Project.git
+    git clone https://github.com/Olakunleniola/WorkAround-Explorer.git
 ```
 
 - To view the webpage locally, open the `index.html` file in a web browser.
